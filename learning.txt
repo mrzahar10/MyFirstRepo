@@ -1,0 +1,1 @@
+This week, I learned how to use Git and GitHub effectively. I created repositories, committed changes, and collaborated using branches and pull requests.
