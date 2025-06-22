@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my programming skills, especially in Python and Git.
+- Complete a personal project using GitHub.
+- Enhance my English language abilities.
+- Participate in coding competitions or hackathons.
+- Read at least 5 books related to technology and self-development.
