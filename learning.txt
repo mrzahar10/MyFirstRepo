@@ -1,1 +1,2 @@
 This week, I learned how to use Git and GitHub effectively. I created repositories, committed changes, and collaborated using branches and pull requests.
+echo "During this course, I, Achraf, have learned how to use Git and GitHub to manage code versions effectively. I now understand how to create repositories, clone them locally, make commits, and push changes to GitHub. These skills will help me collaborate better on projects and keep my work organized." > learning.txt
